@@ -91,7 +91,6 @@
     margin-right: 15px;
     font-size: 16px;
     position: relative;
-    z-index: 10;
   }
   
   .resume .icon i,
@@ -187,6 +186,7 @@
     height: 6px;
     border-radius: 50%;
     border: 2px solid #0bb5f4;
+    background: #fff;
   }
   
   .resume .resume_right .resume_work ul li:after,
